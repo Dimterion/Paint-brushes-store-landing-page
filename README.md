@@ -1,3 +1,11 @@
-# Dasmoto
+# Dasmoto-Website
 
-https://dimterion.github.io/Dasmoto/
+Codecademy project
+
+## Link to the website
+
+[Dasmoto](https://dimterion.github.io/Dasmoto/)
+
+### Built with
+
+HTML, CSS
