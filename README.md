@@ -1,6 +1,6 @@
-# Dasmoto-Website
+# Paints store landing page
 
-Codecademy project
+Codecademy project to learn HTML&CSS
 
 ## Link to the website
 
