@@ -6,6 +6,6 @@ Codecademy project to learn HTML&CSS
 
 [Dasmoto](https://dimterion.github.io/Paint-brushes-store-landing-page/)
 
-### Built with
+## Built with
 
 HTML, CSS
