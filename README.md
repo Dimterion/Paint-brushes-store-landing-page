@@ -2,7 +2,7 @@
 
 Codecademy project to learn HTML&CSS
 
-## Link to the website
+## Link to the page
 
 [Dasmoto](https://dimterion.github.io/Dasmoto/)
 
